@@ -1,0 +1,9 @@
+ipykernel
+beautifulsoup4
+mail-parser
+catboost
+nltk
+spacy
+scikit-learn
+gensim
+ipython
